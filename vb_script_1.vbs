@@ -1,3 +1,7 @@
+'==============
+'This is a very simple VB Script to display data
+'==============
+
 option explicit
 On Error Resume Next
 
